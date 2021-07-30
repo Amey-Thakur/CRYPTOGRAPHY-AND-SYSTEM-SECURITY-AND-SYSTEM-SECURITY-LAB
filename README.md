@@ -26,6 +26,15 @@
 
   - CSS [Practice Test](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY/blob/main/Practice%20Test/Amey_B-50_CSS_Practice_Test.pdf)
 
+## Quizzes
+
+  - CSS [Quiz - 1](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB/blob/main/Quizzes/CSS%20Quiz-1.pdf)
+  - CSS [Quiz - 2](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB/blob/main/Quizzes/CSS%20Quiz-2.pdf)
+  - CSS [Quiz - 3](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB/blob/main/Quizzes/CSS%20Quiz-3.pdf)
+  - CSS [Quiz - 4](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB/blob/main/Quizzes/CSS%20Quiz-4.pdf)
+  - CSS [Quiz - 5](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB/blob/main/Quizzes/CSS%20Quiz-5.pdf)
+  - CSS [Quiz - 6](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB/blob/main/Quizzes/CSS%20Quiz-6.pdf)
+
 ## Submission Report
 
   - [Report](https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY/blob/main/Submission%20Report/Amey_B-50_CSS_Term_Work_Submission_Report.pdf)

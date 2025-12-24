@@ -113,8 +113,8 @@ For varying message sizes, test the integrity of the message using MD-5, SHA-1, 
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-3.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-3.docx) |
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-3/Amey_B-50_System_Security_Lab_Experiment-3.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-3/Amey_B-50_System_Security_Lab_Experiment-3.docx) |
 
 ---
 

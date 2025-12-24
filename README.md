@@ -190,10 +190,10 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `MD5.PY` | Hashing | Implementation of MD5 hashing algorithm | [View](System%20Security%20Lab/Programs/3/MD5.PY) |
-| `SHA1.PY` | Hashing | Implementation of SHA-1 hashing algorithm | [View](System%20Security%20Lab/Programs/3/SHA1.PY) |
-| `MD5_SHA1.py` | Comparative | Combined implementation for performance comparison | [View](System%20Security%20Lab/Programs/3/MD5_SHA1.py) |
-| `AVAILABLE_ALGORITHMS.PY` | Utility | Check available cryptographic algorithms in the environment | [View](System%20Security%20Lab/Programs/3/AVAILABLE_ALGORITHMS.PY) |
+| `Available_Algorithms.py` | Utility | Lists all available hashing algorithms in standard library | [View](System%20Security%20Lab/Experiment-3/Available_Algorithms.py) |
+| `MD5.py` | MD5 Hashing | Implementation and analysis of MD5 Hashing | [View](System%20Security%20Lab/Experiment-3/MD5.py) |
+| `SHA1.py` | SHA-1 Hashing | Implementation and analysis of SHA-1 Hashing | [View](System%20Security%20Lab/Experiment-3/SHA1.py) |
+| `MD5_SHA1.py` | Comparison | Comparison script for MD5 and SHA-1 output size and format | [View](System%20Security%20Lab/Experiment-3/MD5_SHA1.py) |
 </details>
 
 <details>

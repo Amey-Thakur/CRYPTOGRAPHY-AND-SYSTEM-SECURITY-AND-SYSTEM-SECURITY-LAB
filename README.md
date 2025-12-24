@@ -146,18 +146,18 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 > [!TIP]
 > **Lab Manual**: For further details or code samples, verify the [System Security Lab](System%20Security%20Lab/) directory.
 
-| # | Experiment | Report | Source Code |
-|:-:|:---|:-:|:-:|
-| 1 | Implementation of Substitution and Transposition Ciphers | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-1.pdf) | [View](System%20Security%20Lab/Programs/1) |
-| 2 | Implementation of RSA Algorithm and Attack on RSA | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-2.pdf) | [View](System%20Security%20Lab/Programs/2) |
-| 3 | Implementation of MD5 and SHA-1 Hashing Algorithms | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-3.pdf) | [View](System%20Security%20Lab/Programs/3) |
-| 4 | Implementation of Digital Signature Standard (DSS) | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) | — |
-| 5 | Implementation of Diffie-Hellman Key Exchange Algorithm | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-5.pdf) | — |
-| 6 | Simulation of Packet Sniffing using Wireshark | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-6.pdf) | — |
-| 7 | Simulation of SQL Injection Attack | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-7.pdf) | — |
-| 8 | Simulation of Buffer Overflow Attack | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-8.pdf) | — |
-| 9 | Configuration of Firewall and IDS | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) | — |
-| 10 | Case Study on Pretty Good Privacy (PGP) | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) | — |
+| # | Experiment | Marks | Report | Source Code |
+|:-:|:---|:---:|:-:|:-:|
+| 1 | Design and Implementation of a product cipher using Substitution and Transposition ciphers | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-1.pdf) | [View](System%20Security%20Lab/Programs/1) |
+| 2 | Implementation and analysis of RSA cryptosystem and Digital signature scheme using RSA/El Gamal | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-2.pdf) | [View](System%20Security%20Lab/Programs/2) |
+| 3 | For varying message sizes, test the integrity of the message using MD-5, SHA-1, and analyze the performance of the two protocols. Use crypt APIs | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-3.pdf) | [View](System%20Security%20Lab/Programs/3) |
+| 4 | Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks and domain registrars | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) | — |
+| 5 | Design a network and implement packet sniffing on telnet traffic using Wireshark | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-5.pdf) | — |
+| 6 | Implement ARP spoofing using Ettercap | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-6.pdf) | — |
+| 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan, TCP port scan, UDP port scan, Xmas scan etc | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-7.pdf) | — |
+| 8 | Perform SQL injection on a vulnerable website | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-8.pdf) | — |
+| 9 | Simulate DOS attack using Hoping, hping3 and other tools | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) | — |
+| 10 | Explore the GPGwin tool and implement email security | 8/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) | — |
 
 ---
 

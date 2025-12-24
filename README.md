@@ -203,7 +203,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
 | `Network_Reconnaissance.py` | Reconnaissance | Automation of standard network recon tools (whois, dig, etc.) | [View](System%20Security%20Lab/Experiment-4/Network_Reconnaissance.py) |
-| Lab Report | Documentation | Detailed report on WHOIS, dig, and traceroute | [View](System%20Security%20Lab/Experiment-4/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
 </details>
 
 <details>
@@ -213,7 +212,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
 | `Packet_Sniffer.py` | Sniffing | Packet sniffing implementation using scapy | [View](System%20Security%20Lab/Experiment-5/Packet_Sniffer.py) |
-| Lab Report | Documentation | Detailed report on Wireshark packet capture | [View](System%20Security%20Lab/Experiment-5/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
 </details>
 
 <details>
@@ -223,7 +221,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
 | `ARP_Spoofer.py` | Spoofing | ARP Spoofing implementation using scapy | [View](System%20Security%20Lab/Experiment-6/ARP_Spoofer.py) |
-| Lab Report | Documentation | Detailed report on ARP Spoofing with Ettercap | [View](System%20Security%20Lab/Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
 </details>
 
 <details>
@@ -233,7 +230,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
 | `Nmap_Scanner.py` | Scanning | Automation of Nmap scans (Intense, OS, etc.) | [View](System%20Security%20Lab/Experiment-7/Nmap_Scanner.py) |
-| Lab Report | Documentation | Detailed report on Nmap scanning and analysis | [View](System%20Security%20Lab/Experiment-7/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
 </details>
 
 <details>
@@ -243,7 +239,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
 | `SQL_Injection_Tester.py` | Injection | Automation of sqlmap utilization | [View](System%20Security%20Lab/Experiment-8/SQL_Injection_Tester.py) |
-| Lab Report | Documentation | Detailed report on SQL Injection vulnerabilities | [View](System%20Security%20Lab/Experiment-8/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
 </details>
 
 <details>
@@ -253,7 +248,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
 | `DoS_Attack_Simulator.py` | Attack | Automation of DoS simulation using hping3 | [View](System%20Security%20Lab/Experiment-9/DoS_Attack_Simulator.py) |
-| Lab Report | Documentation | Detailed report on DoS attacks using hping3 | [View](System%20Security%20Lab/Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
 </details>
 
 <details>
@@ -263,7 +257,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
 | `PGP_Email_Security.py` | Encryption | Automation of PGP operations via GPG | [View](System%20Security%20Lab/Experiment-10/PGP_Email_Security.py) |
-| Lab Report | Documentation | Detailed report on Email Security using GPGwin | [View](System%20Security%20Lab/Experiment-10/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 </details>
 
 ### Laboratory Documentation

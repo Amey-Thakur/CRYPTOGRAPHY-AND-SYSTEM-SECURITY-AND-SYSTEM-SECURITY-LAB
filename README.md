@@ -115,7 +115,7 @@ Academic assignments for comprehensive learning and practice:
      ========================================================================================= -->
 ### Quizzes
 
-Subject-specific quizzes conducted during the course:
+CSS-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Marks |
 |:-:|:---|:---|:---:|

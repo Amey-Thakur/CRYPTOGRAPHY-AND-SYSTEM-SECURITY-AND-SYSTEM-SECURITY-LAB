@@ -1,4 +1,4 @@
-# Experiment 2: RSA Algorithm and Digital Signature
+# Experiment 2: RSA & Digital Signature 
 # Course: System Security Lab (CSL604)
 # Name: Amey Thakur (https://github.com/Amey-Thakur)
 # Roll No: 50

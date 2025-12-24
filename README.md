@@ -161,6 +161,112 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 
 ---
 
+## Program Details
+
+<details>
+<summary><b>Experiment 1: Product Cipher (Substitution & Transposition) (3 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `Product_Cipher.py` | Product Cipher | Implementation of combined Substitution and Transposition cipher | [View](System%20Security%20Lab/Programs/1/Product_Cipher.py) |
+| `Substitution_Cipher.py` | Substitution | Implementation of Substitution cipher logic | [View](System%20Security%20Lab/Programs/1/Substitution_Cipher.py) |
+| `Transposition_Cipher.py` | Transposition | Implementation of Transposition cipher logic | [View](System%20Security%20Lab/Programs/1/Transposition_Cipher.py) |
+</details>
+
+<details>
+<summary><b>Experiment 2: RSA & Digital Signature (2 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `RSA.PY` | RSA Algorithm | Standard RSA encryption and decryption implementation | [View](System%20Security%20Lab/Programs/2/RSA.PY) |
+| `RSA(MATH).py` | RSA Math | Mathematical foundational operations for RSA | [View](System%20Security%20Lab/Programs/2/RSA(MATH).py) |
+</details>
+
+<details>
+<summary><b>Experiment 3: Hashing & Performance Analysis (4 Programs)</b></summary>
+<br>
+
+| Program | Category | Description | Code |
+|:---|:---|:---|:-:|
+| `MD5.PY` | Hashing | Implementation of MD5 hashing algorithm | [View](System%20Security%20Lab/Programs/3/MD5.PY) |
+| `SHA1.PY` | Hashing | Implementation of SHA-1 hashing algorithm | [View](System%20Security%20Lab/Programs/3/SHA1.PY) |
+| `MD5_SHA1.py` | Comparative | Combined implementation for performance comparison | [View](System%20Security%20Lab/Programs/3/MD5_SHA1.py) |
+| `AVAILABLE_ALGORITHMS.PY` | Utility | Check available cryptographic algorithms in the environment | [View](System%20Security%20Lab/Programs/3/AVAILABLE_ALGORITHMS.PY) |
+</details>
+
+<details>
+<summary><b>Experiment 4: Network Reconnaissance (1 Resource)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| Lab Report | Documentation | Detailed report on WHOIS, dig, and traceroute | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
+</details>
+
+<details>
+<summary><b>Experiment 5: Packet Sniffing (Telnet) (1 Resource)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| Lab Report | Documentation | Detailed report on Wireshark packet capture | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
+</details>
+
+<details>
+<summary><b>Experiment 6: ARP Spoofing (1 Resource)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| Lab Report | Documentation | Detailed report on ARP Spoofing with Ettercap | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
+</details>
+
+<details>
+<summary><b>Experiment 7: Nmap Scanning (1 Resource)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| Lab Report | Documentation | Detailed report on Nmap scanning techniques | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
+</details>
+
+<details>
+<summary><b>Experiment 8: SQL Injection (1 Resource)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| Lab Report | Documentation | Detailed report on SQL Injection simulation | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
+</details>
+
+<details>
+<summary><b>Experiment 9: DOS Attack (1 Resource)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| Lab Report | Documentation | Detailed report on DOS attack simulation | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
+</details>
+
+<details>
+<summary><b>Experiment 10: Email Security (GPGwin) (1 Resource)</b></summary>
+<br>
+
+| Resource | Category | Description | Link |
+|:---|:---|:---|:-:|
+| Lab Report | Documentation | Detailed report on PGP implementation | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
+</details>
+
+## Laboratory Documentation
+
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [Lab README](System%20Security%20Lab/README.md) | Detailed navigation guide with program descriptions |
+
+---
+
 <!-- =========================================================================================
                                      MOCK TEST SECTION
      ========================================================================================= -->

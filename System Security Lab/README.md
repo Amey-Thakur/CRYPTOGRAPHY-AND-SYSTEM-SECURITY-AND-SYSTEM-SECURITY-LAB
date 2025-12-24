@@ -77,12 +77,12 @@
 
 Design and Implementation of a product cipher using Substitution and Transposition ciphers.
 
-**Date:** February 12, 2021
+**Date:** January 29, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-1.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-1.docx) |
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-1/Amey_B-50_System_Security_Lab_Experiment-1.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-1/Amey_B-50_System_Security_Lab_Experiment-1.docx) |
 
 ---
 

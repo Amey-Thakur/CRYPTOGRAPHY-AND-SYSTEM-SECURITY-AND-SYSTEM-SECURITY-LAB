@@ -117,14 +117,14 @@ Academic assignments for comprehensive learning and practice:
 
 Subject-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Marks |
-|:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/CSS%20Quiz-1.pdf) | Introduction to Cryptography and Classical Encryption | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/CSS%20Quiz-2.pdf) | Block Ciphers and Data Encryption Standard (DES) | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/CSS%20Quiz-3.pdf) | Advanced Encryption Standard (AES) and Public Key Cryptography | 10/10 |
-| 4 | [**Quiz 4**](Quizzes/CSS%20Quiz-4.pdf) | RSA Algorithm and Key Management | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/CSS%20Quiz-5.pdf) | Message Authentication and Hash Functions | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/CSS%20Quiz-6.pdf) | System Security and Network Security | 10/10 |
+| # | Quiz | Topics | Date | Marks |
+|:-:|:---|:---|:---:|:---:|
+| 1 | [**Quiz 1**](Quizzes/CSS%20Quiz-1.pdf) | Introduction to Cryptography and Classical Encryption | — | 10/10 |
+| 2 | [**Quiz 2**](Quizzes/CSS%20Quiz-2.pdf) | Block Ciphers and Data Encryption Standard (DES) | — | 10/10 |
+| 3 | [**Quiz 3**](Quizzes/CSS%20Quiz-3.pdf) | Advanced Encryption Standard (AES) and Public Key Cryptography | — | 10/10 |
+| 4 | [**Quiz 4**](Quizzes/CSS%20Quiz-4.pdf) | RSA Algorithm and Key Management | — | 10/10 |
+| 5 | [**Quiz 5**](Quizzes/CSS%20Quiz-5.pdf) | Message Authentication and Hash Functions | — | 10/10 |
+| 6 | [**Quiz 6**](Quizzes/CSS%20Quiz-6.pdf) | System Security and Network Security | — | 10/10 |
 
 ---
 
@@ -161,7 +161,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 
 
 
-## Program Details
+### Program Details
 
 <details>
 <summary><b>Experiment 1: Design and Implementation of a Product Cipher (3 Programs)</b></summary>
@@ -260,7 +260,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | Lab Report | Documentation | Detailed report on PGP implementation | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 </details>
 
-## Laboratory Documentation
+### Laboratory Documentation
 
 | # | Resource | Description |
 |:-:|:---|:---|
@@ -452,7 +452,7 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 
   <br>
 
-  **[System Security Lab](System%20Security%20Lab/)**
+  **[System Security Lab](System%20Security%20Lab/README.md)**
 
 </div>
 

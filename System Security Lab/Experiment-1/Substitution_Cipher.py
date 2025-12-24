@@ -22,22 +22,29 @@ def encrypt(n, plaintext):
     """
     Encrypts the plaintext using a Substitution Cipher (Caesar Cipher).
     
+    Logic:
+    The algorithm iteratively shifts each character of the plaintext by a fixed value 'n'.
+    The modulo 26 operation ensures the shift wraps around the alphabet (e.g., 'z' shifts to 'a').
+    
     Args:
-        n (int): The shift key (offset).
-        plaintext (str): The message to be encrypted.
+        n (int): The shift key (offset), determining the number of positions to shift.
+        plaintext (str): The input message to be encrypted.
         
     Returns:
-        str: The encrypted ciphertext.
+        str: The resulting ciphertext after encryption.
     """
     result = ''
 
     for l in plaintext.lower():
         try:
-            # Shift the character index by n and wrap around using modulo 26
+            # key.index(l): Find the 0-based index of the character in the alphabet.
+            # + n: Apply the shift (key).
+            # % 26: Wrap around if the index exceeds 25 (length of alphabet).
             i = (key.index(l) + n) % 26
             result += key[i]
         except ValueError:
-            # If character is not in the key (e.g., space, punctuation), keep it as is
+            # If the character 'l' is not found in 'key' (e.g., space, punctuation, numbers),
+            # it is appended to the result without modification.
             result += l
 
     return result.lower()
@@ -46,8 +53,12 @@ def decrypt(n, ciphertext):
     """
     Decrypts the ciphertext using a Substitution Cipher (Caesar Cipher).
     
+    Logic:
+    Reverses the encryption process by shifting each character backward by 'n' positions.
+    modulo 26 is again used to handle negative wrapping (e.g., 'a' shifts back to 'z').
+    
     Args:
-        n (int): The shift key (offset).
+        n (int): The shift key (offset) used for encryption.
         ciphertext (str): The message to be decrypted.
         
     Returns:
@@ -57,11 +68,13 @@ def decrypt(n, ciphertext):
 
     for l in ciphertext:
         try:
-            # Shift the character index back by n and wrap around using modulo 26
+            # key.index(l): Find the index of the encrypted character.
+            # - n: Reverse the shift.
+            # % 26: Handle wrapping for negative values (e.g., -1 % 26 = 25).
             i = (key.index(l) - n) % 26
             result += key[i]
         except ValueError:
-            # If character is not in the key, keep it as is
+            # If character is not in the key, keep it as is.
             result += l
 
     return result

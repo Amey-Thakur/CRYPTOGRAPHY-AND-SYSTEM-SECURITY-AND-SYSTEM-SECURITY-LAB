@@ -215,7 +215,7 @@ Final semester examination submission:
 
 | # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
-| 1 | [MCQ Paper](Semester%20Exam/MCQ_TE-B_CSS.pdf) | CSS Semester Exam MCQ Paper | June 9, 2021 |
+| 1 | [MCQ](Semester%20Exam/MCQ_TE-B_CSS.pdf) | CSS Semester Exam MCQ Paper | June 9, 2021 |
 | 2 | [Answer Sheet - Q2](Semester%20Exam/Q2_61021145_CSS.pdf) | CSS Semester Exam Answer Sheet (Q2) | June 9, 2021 |
 | 3 | [Answer Sheet - Q3](Semester%20Exam/Q3_61021145_CSS.pdf) | CSS Semester Exam Answer Sheet (Q3) | June 9, 2021 |
 

@@ -157,7 +157,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan etc | April 04, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-7/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
 | 8 | Perform SQL injection on a vulnerable website | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-8/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
 | 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
-| 10 | Explore the GPGwin tool and implement email security | April 30, 2021 | 8/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
+| 10 | Explore the GPGwin tool and implement email security | April 20, 2021 | 8/10 | [View](System%20Security%20Lab/Experiment-10/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 
 
 
@@ -257,12 +257,13 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 10: Email Security (GPGwin) (1 Resource)</b></summary>
+<summary><b>Experiment 10: Email Security (PGP) (1 Program)</b></summary>
 <br>
 
-| Resource | Category | Description | Link |
+| Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| Lab Report | Documentation | Detailed report on PGP implementation | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
+| `PGP_Email_Security.py` | Encryption | Automation of PGP operations via GPG | [View](System%20Security%20Lab/Experiment-10/PGP_Email_Security.py) |
+| Lab Report | Documentation | Detailed report on Email Security using GPGwin | [View](System%20Security%20Lab/Experiment-10/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 </details>
 
 ### Laboratory Documentation

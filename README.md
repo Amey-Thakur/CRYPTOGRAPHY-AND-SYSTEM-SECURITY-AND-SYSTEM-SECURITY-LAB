@@ -207,11 +207,12 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 5: Packet Sniffing (Telnet) (1 Resource)</b></summary>
+<summary><b>Experiment 5: Packet Sniffing (Telnet) (1 Program)</b></summary>
 <br>
 
-| Resource | Category | Description | Link |
+| Program | Category | Description | Code |
 |:---|:---|:---|:-:|
+| `Packet_Sniffer.py` | Sniffing | Packet sniffing implementation using scapy | [View](System%20Security%20Lab/Experiment-5/Packet_Sniffer.py) |
 | Lab Report | Documentation | Detailed report on Wireshark packet capture | [View](System%20Security%20Lab/Experiment-5/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
 </details>
 

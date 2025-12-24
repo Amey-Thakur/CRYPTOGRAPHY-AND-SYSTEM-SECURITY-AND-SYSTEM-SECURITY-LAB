@@ -1,10 +1,10 @@
-# Experiment 4: Network Reconnaissance  Tools
+# Experiment 4: Network Reconnaissance Tools
 # Course: System Security Lab (CSL604)
 # Name: Amey Thakur (https://github.com/Amey-Thakur)
 # Roll No: 50
 # Batch: B3
 # Repository: https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB
-# Date: 09/03/2021
+# Date: March 09, 2021
 
 import os
 import sys

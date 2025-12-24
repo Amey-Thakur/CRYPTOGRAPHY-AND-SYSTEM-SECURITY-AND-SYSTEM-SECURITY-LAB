@@ -144,7 +144,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </div>
 
 > [!TIP]
-> **Lab Manual**: For further details or code samples, verify the [System Security Lab](System%20Security%20Lab/) directory.
+> **Lab Insight**: This laboratory curriculum progresses from implementing core cryptographic primitives (Substitution, RSA, Hashing) to practical network security operations (Reconnaissance, Sniffing, Spoofing). Mastering the underlying algorithms is just as critical as understanding how to deploy and defend against network-based attacks.
 
 | # | Experiment | Date | Marks | Report |
 |:-:|:---|:---:|:---:|:-:|

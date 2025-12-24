@@ -104,7 +104,7 @@ Academic assignments for comprehensive learning and practice:
 |:-:|:---|:---|:---:|:---:|
 | 1 | [**Assignment 1**](Assignments/Amey_B-50_CSS_Assignment-1.pdf) | Security Goals, Substitution & Transposition Ciphers, Chinese Remainder Theorem, Euclid & Fermat/Euler Algorithms, Diffie-Hellman, RSA | — | 9/10 |
 | 2 | [**Assignment 2**](Assignments/Amey_B-50_CSS_Assignment-2.pdf) | Hashing (MD5, SHA, HMAC), X.509, Kerberos, DoS/DDoS Attacks, SSL, IPSec, PGP, IDS, Buffer Overflow, SQL Injection | — | 9/10 |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_CSS_Assignment-3.pdf) | **Beyond Syllabus**: Internet Key Exchange (IKE), Biometric Techniques, Zero Knowledge Protocol | — | — |
+| 3 | [**Assignment 3**](Assignments/Amey_B-50_CSS_Assignment-3.pdf) | **Beyond Syllabus**: Internet Key Exchange (IKE), Biometric Techniques, Zero Knowledge Protocol | February 23, 2021 | — |
 
 **Topics Covered**: Modular Arithmetic · Euclidean Algorithm · Fermat's Little Theorem · Euler's Theorem · Chinese Remainder Theorem · Primitive Roots · Discrete Logarithms · RSA Algorithm · Diffie-Hellman Key Exchange · Hash Functions (MD5, SHA) · HMAC · Digital Signatures · X.509 Certificates · Kerberos · Network Attacks (DoS, DDoS, SQL Injection, Buffer Overflow) · Security Protocols (SSL, IPSec, PGP) · Biometrics · Zero Knowledge Protocol
 

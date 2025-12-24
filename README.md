@@ -153,7 +153,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | 3 | For varying message sizes, test the integrity of the message using MD-5, SHA-1, and analyze the performance of the two protocols | February 18, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-3.pdf) |
 | 4 | Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks | March 09, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
 | 5 | Design a network and implement packet sniffing on telnet traffic using Wireshark | March 30, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-5/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
-| 6 | Implement ARP spoofing using Ettercap | April 02, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
+| 6 | Implement ARP spoofing using Ettercap | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
 | 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan etc | April 09, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
 | 8 | Perform SQL injection on a vulnerable website | April 16, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
 | 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 23, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
@@ -217,12 +217,13 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 6: ARP Spoofing (1 Resource)</b></summary>
+<summary><b>Experiment 6: ARP Spoofing (1 Program)</b></summary>
 <br>
 
-| Resource | Category | Description | Link |
+| Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| Lab Report | Documentation | Detailed report on ARP Spoofing with Ettercap | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
+| `ARP_Spoofer.py` | Spoofing | ARP Spoofing implementation using scapy | [View](System%20Security%20Lab/Experiment-6/ARP_Spoofer.py) |
+| Lab Report | Documentation | Detailed report on ARP Spoofing with Ettercap | [View](System%20Security%20Lab/Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
 </details>
 
 <details>

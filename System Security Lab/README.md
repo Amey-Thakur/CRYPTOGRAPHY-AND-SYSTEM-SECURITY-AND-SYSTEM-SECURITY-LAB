@@ -34,7 +34,7 @@
      ========================================================================================= -->
 ## How to Use
 
-### 🛠️ Environment Setup
+### Environment Setup
 Ensure you have **Python 3.x** installed. Some experiments require external tools and libraries:
 - **Python Libraries**: Install `scapy` for packet manipulation experiments.
   ```bash
@@ -45,7 +45,7 @@ Ensure you have **Python 3.x** installed. Some experiments require external tool
   - **Wireshark**: Required for packet analysis in Experiment 5.
   - **GPGwin**: Required for PGP implementation in Experiment 10.
 
-### 🚀 Running Experiments
+### Running Experiments
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB.git
@@ -59,7 +59,7 @@ Ensure you have **Python 3.x** installed. Some experiments require external tool
    python script_name.py
    ```
 
-### 📄 Laboratory Reports
+### Laboratory Reports
 Each experiment includes a detailed PDF report covering:
 - **Problem Statement**: The specific security challenge addressed.
 - **Theory**: The underlying cryptographic or networking concepts.

@@ -148,10 +148,10 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 
 | # | Experiment | Date | Marks | Report |
 |:-:|:---|:---:|:---:|:-:|
-| 1 | Design and Implementation of a product cipher using Substitution and Transposition ciphers | January 29, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-1.pdf) |
-| 2 | Implementation and analysis of RSA cryptosystem and Digital signature scheme using RSA/El Gamal | February 11, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-2.pdf) |
-| 3 | For varying message sizes, test the integrity of the message using MD-5, SHA-1, and analyze the performance of the two protocols | February 18, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-3.pdf) |
-| 4 | Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks | March 09, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
+| 1 | Design and Implementation of a product cipher using Substitution and Transposition ciphers | January 29, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-1/Amey_B-50_System_Security_Lab_Experiment-1.pdf) |
+| 2 | Implementation and analysis of RSA cryptosystem and Digital signature scheme using RSA/El Gamal | February 11, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-2/Amey_B-50_System_Security_Lab_Experiment-2.pdf) |
+| 3 | For varying message sizes, test the integrity of the message using MD-5, SHA-1, and analyze the performance of the two protocols | February 18, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-3/Amey_B-50_System_Security_Lab_Experiment-3.pdf) |
+| 4 | Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks | March 09, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-4/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
 | 5 | Design a network and implement packet sniffing on telnet traffic using Wireshark | March 30, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-5/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
 | 6 | Implement ARP spoofing using Ettercap | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
 | 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan etc | April 04, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-7/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |

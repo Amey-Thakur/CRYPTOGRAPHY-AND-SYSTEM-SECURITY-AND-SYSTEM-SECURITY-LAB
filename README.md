@@ -159,10 +159,12 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 23, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
 | 10 | Explore the GPGwin tool and implement email security | April 30, 2021 | 8/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 
+
+
 ## Program Details
 
 <details>
-<summary><b>Experiment 1: Product Cipher (Substitution & Transposition) (3 Programs)</b></summary>
+<summary><b>Experiment 1: Design and Implementation of a Product Cipher (3 Programs)</b></summary>
 <br>
 
 | Program | Category | Description | Code |
@@ -173,7 +175,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 2: RSA & Digital Signature (2 Programs)</b></summary>
+<summary><b>Experiment 2: RSA Cryptosystem & Digital Signature (2 Programs)</b></summary>
 <br>
 
 | Program | Category | Description | Code |
@@ -183,7 +185,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 3: Hashing & Performance Analysis (4 Programs)</b></summary>
+<summary><b>Experiment 3: Message Integrity using MD5 & SHA-1 (4 Programs)</b></summary>
 <br>
 
 | Program | Category | Description | Code |
@@ -195,7 +197,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 4: Network Reconnaissance (1 Program)</b></summary>
+<summary><b>Experiment 4: Network Reconnaissance Tools (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Code |

@@ -22,7 +22,7 @@
 ---
 
 > [!TIP]
-> **Lab Manual**: This directory contains comprehensive reports for all experiments conducted during the course. For the final Mini Project, please visit the [**Mini Project Section**](../README.md#system-security-mini-project) in the main repository.
+> **Practical Application**: This lab bridging theory and practice. You won't just implement algorithms like RSA and MD5 in Python; you will also actively engage with powerful network security tools such as **Wireshark** for packet analysis, **Nmap** for reconnaissance, and **Ettercap** for ARP spoofing simulations.
 
 > [!WARNING]
 > **Ethical Hacking**: Experiments involving packet sniffing, SQL injection, and buffer overflow are for educational purposes only. Ensure you perform these simulations in a controlled, isolated environment (sandbox) and never on unauthorized networks or systems.

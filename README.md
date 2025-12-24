@@ -168,9 +168,9 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 
 Technical mock test conducted for placement preparation:
 
-| # | Resource | Description | Date |
-|:-:|:---|:---|:---:|
-| 1 | [**Technical Mock Test**](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) | Campus Corners Mock Test for Terna Engineering College | — |
+| # | Resource | Description |
+|:-:|:---|:---|
+| 1 | [**Technical Mock Test**](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) | Campus Corners Mock Test for Terna Engineering College |
 
 ---
 

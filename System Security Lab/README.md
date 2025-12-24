@@ -129,8 +129,9 @@ Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nsloo
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/Amey_B-50_System_Security_Lab_Experiment-4.docx) |
+| 1 | Program Code (Python) | Network Reconnaissance Script | [View](Experiment-4/Network_Reconnaissance.py) |
+| 2 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-4/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
+| 3 | Lab Report (DOCX) | Editable report file | [Download](Experiment-4/Amey_B-50_System_Security_Lab_Experiment-4.docx) |
 
 ---
 

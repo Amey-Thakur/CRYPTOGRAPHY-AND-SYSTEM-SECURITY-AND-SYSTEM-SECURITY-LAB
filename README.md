@@ -159,8 +159,6 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 23, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
 | 10 | Explore the GPGwin tool and implement email security | April 30, 2021 | 8/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 
----
-
 ## Program Details
 
 <details>
@@ -197,12 +195,13 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 4: Network Reconnaissance (1 Resource)</b></summary>
+<summary><b>Experiment 4: Network Reconnaissance (1 Program)</b></summary>
 <br>
 
-| Resource | Category | Description | Link |
+| Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| Lab Report | Documentation | Detailed report on WHOIS, dig, and traceroute | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
+| `Network_Reconnaissance.py` | Reconnaissance | Automation of standard network recon tools (whois, dig, etc.) | [View](System%20Security%20Lab/Experiment-4/Network_Reconnaissance.py) |
+| Lab Report | Documentation | Detailed report on WHOIS, dig, and traceroute | [View](System%20Security%20Lab/Experiment-4/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
 </details>
 
 <details>

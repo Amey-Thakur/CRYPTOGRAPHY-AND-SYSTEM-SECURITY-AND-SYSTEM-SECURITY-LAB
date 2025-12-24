@@ -171,10 +171,6 @@ Technical mock test conducted for placement preparation:
 | # | Resource | Description | Date |
 |:-:|:---|:---|:---:|
 | 1 | [**Technical Mock Test**](Technical%20Mock%20Test-%20For%20Terna%20Engineering%20College%20by%20Campus%20Corners!.pdf) | Campus Corners Mock Test for Terna Engineering College | — |
-| 2 | [**Quiz**](Mock%20Test/TE-COMP-B-Block%202-Mock%20Exam%20MCQ%20TE%20Sem.%20VI%20FH2021.pdf) | Mock Exam MCQ | May 24, 2021 |
-| 3 | [**Question Paper**](Mock%20Test/MOCK_TEST.pdf) | Mock Test Question Paper | May 24, 2021 |
-| 4 | [**Answer Sheet - Q2**](Mock%20Test/AMEY_B-50_MOCK_TEST_QUESTION-2.pdf) | Mock Test Answer Sheet (Q2) | May 24, 2021 |
-| 5 | [**Answer Sheet - Q3**](Mock%20Test/AMEY_B-50_MOCK_TEST_QUESTION-3.pdf) | Mock Test Answer Sheet (Q3) | May 24, 2021 |
 
 ---
 

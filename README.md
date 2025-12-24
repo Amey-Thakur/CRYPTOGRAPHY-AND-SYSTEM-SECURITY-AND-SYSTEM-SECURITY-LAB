@@ -117,14 +117,14 @@ Academic assignments for comprehensive learning and practice:
 
 Subject-specific quizzes conducted during the course:
 
-| # | Quiz | Topics | Date | Marks |
-|:-:|:---|:---|:---:|:---:|
-| 1 | [**Quiz 1**](Quizzes/CSS%20Quiz-1.pdf) | Introduction to Cryptography and Classical Encryption | — | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/CSS%20Quiz-2.pdf) | Block Ciphers and Data Encryption Standard (DES) | — | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/CSS%20Quiz-3.pdf) | Advanced Encryption Standard (AES) and Public Key Cryptography | — | 10/10 |
-| 4 | [**Quiz 4**](Quizzes/CSS%20Quiz-4.pdf) | RSA Algorithm and Key Management | — | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/CSS%20Quiz-5.pdf) | Message Authentication and Hash Functions | — | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/CSS%20Quiz-6.pdf) | System Security and Network Security | — | 10/10 |
+| # | Quiz | Topics | Marks |
+|:-:|:---|:---|:---:|
+| 1 | [**Quiz 1**](Quizzes/CSS%20Quiz-1.pdf) | Introduction to Cryptography and Classical Encryption | 10/10 |
+| 2 | [**Quiz 2**](Quizzes/CSS%20Quiz-2.pdf) | Block Ciphers and Data Encryption Standard (DES) | 10/10 |
+| 3 | [**Quiz 3**](Quizzes/CSS%20Quiz-3.pdf) | Advanced Encryption Standard (AES) and Public Key Cryptography | 10/10 |
+| 4 | [**Quiz 4**](Quizzes/CSS%20Quiz-4.pdf) | RSA Algorithm and Key Management | 10/10 |
+| 5 | [**Quiz 5**](Quizzes/CSS%20Quiz-5.pdf) | Message Authentication and Hash Functions | 10/10 |
+| 6 | [**Quiz 6**](Quizzes/CSS%20Quiz-6.pdf) | System Security and Network Security | 10/10 |
 
 ---
 

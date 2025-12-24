@@ -156,7 +156,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | 6 | Implement ARP spoofing using Ettercap | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
 | 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan etc | April 04, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-7/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
 | 8 | Perform SQL injection on a vulnerable website | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-8/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
-| 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 23, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
+| 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
 | 10 | Explore the GPGwin tool and implement email security | April 30, 2021 | 8/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 
 
@@ -247,12 +247,13 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 9: DOS Attack (1 Resource)</b></summary>
+<summary><b>Experiment 9: DoS (1 Program)</b></summary>
 <br>
 
-| Resource | Category | Description | Link |
+| Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| Lab Report | Documentation | Detailed report on DOS attack simulation | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
+| `DoS_Attack_Simulator.py` | Attack | Automation of DoS simulation using hping3 | [View](System%20Security%20Lab/Experiment-9/DoS_Attack_Simulator.py) |
+| Lab Report | Documentation | Detailed report on DoS attacks using hping3 | [View](System%20Security%20Lab/Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
 </details>
 
 <details>

@@ -1,4 +1,4 @@
-# Experiment 3: Hashing Algorithms (MD5)
+# Experiment 3: Hashing & Performance Analysis thms (MD5)
 # Course: System Security Lab (CSL604)
 # Name: Amey Thakur (https://github.com/Amey-Thakur)
 # Roll No: 50

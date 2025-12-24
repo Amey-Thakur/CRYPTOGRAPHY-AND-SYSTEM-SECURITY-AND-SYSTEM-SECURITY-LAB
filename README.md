@@ -227,7 +227,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 7: Nmap Scanning (1 Program)</b></summary>
+<summary><b>Experiment 7: Nmap Scanning & OS Fingerprinting (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Code |
@@ -247,7 +247,7 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 </details>
 
 <details>
-<summary><b>Experiment 9: DoS (1 Program)</b></summary>
+<summary><b>Experiment 9: Denial-of-Service (DoS) (1 Program)</b></summary>
 <br>
 
 | Program | Category | Description | Code |

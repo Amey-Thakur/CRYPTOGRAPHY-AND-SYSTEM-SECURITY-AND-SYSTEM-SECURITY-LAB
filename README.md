@@ -180,8 +180,8 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `RSA.PY` | RSA Algorithm | Standard RSA encryption and decryption implementation | [View](System%20Security%20Lab/Programs/2/RSA.PY) |
-| `RSA(MATH).py` | RSA Math | Mathematical foundational operations for RSA | [View](System%20Security%20Lab/Programs/2/RSA(MATH).py) |
+| `RSA.py` | RSA Algorithm | Standard RSA encryption and decryption implementation | [View](System%20Security%20Lab/Experiment-2/RSA.py) |
+| `RSA_Math.py` | RSA Math | Mathematical foundational operations for RSA | [View](System%20Security%20Lab/Experiment-2/RSA_Math.py) |
 </details>
 
 <details>

@@ -97,8 +97,8 @@ Implementation and analysis of RSA cryptosystem and Digital signature scheme usi
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-2.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-2.docx) |
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-2/Amey_B-50_System_Security_Lab_Experiment-2.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-2/Amey_B-50_System_Security_Lab_Experiment-2.docx) |
 
 ---
 

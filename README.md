@@ -225,7 +225,7 @@ Final semester examination submission:
 |:-:|:---|:---|
 | 1 | [Answer Sheet Template](Semester%20Exam/ANSWER%20SHEET%20-%20CSS.docx) | Semester Exam Answer Sheet Template |
 | 2 | [Questions Document](Semester%20Exam/CSS_QUESTIONS.docx) | CSS Exam Questions |
-| 3 | [Reference Document](Semester%20Exam/CSS.pdf) | Additional Exam Reference |
+| 3 | [Reference Document](Semester%20Exam/CSS.pdf) | Answer Sheet Exam Details Template |
 | 4 | [CSS Answersheet Template](Semester%20Exam/CSS%20Answersheet%20template.pdf) | Answer Sheet Layout |
 
 ---

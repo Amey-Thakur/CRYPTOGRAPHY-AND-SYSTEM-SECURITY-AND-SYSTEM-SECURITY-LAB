@@ -73,21 +73,26 @@ Each experiment includes a detailed PDF report covering:
      ========================================================================================= -->
 ## Learning Path
 
-**Cryptography Fundamentals:**
-- Start with **Experiment 1** to understand classical encryption using Product Ciphers (Substitution & Transposition).
-- Explore **Experiment 2** for asymmetric cryptography using RSA and Digital Signatures.
+### Phase 1: Cryptographic Algorithms
+Focus on the mathematical foundations of security.
+- **Exp 1 & 2**: Implement Product Ciphers and RSA to understand encryption mechanics.
+- **Exp 3**: Analyze Hashing Algorithms (MD5/SHA-1) for data integrity verification.
 
-**Integrity & Authentication:**
-- Study **Experiment 3** to master Hashing algorithms (MD5/SHA-1) and performance analysis.
-- Practice **Experiment 6** for network attacks using ARP Spoofing.
+### Phase 2: Network Intelligence
+Master the tools used for gathering information and monitoring traffic.
+- **Exp 4**: Perform Network Reconnaissance using `whois`, `dig`, and `traceroute`.
+- **Exp 5**: Intercept and analyze unencrypted traffic with Packet Sniffing (Telnet).
+- **Exp 7**: Conduct advanced Port Scanning and OS Fingerprinting using Nmap.
 
-**Network Security & Analysis:**
-- Use **Experiment 4** to learn network reconnaissance with WHOIS, dig, and traceroute.
-- Configure defensive measures in **Experiment 5** using Packet Sniffing on Telnet.
+### Phase 3: Offensive Security
+Simulate attacks to understand defensive requirements.
+- **Exp 6**: Execute ARP Spoofing to demonstrate Man-in-the-Middle attacks.
+- **Exp 8**: Exploit web vulnerabilities using SQL Injection techniques.
+- **Exp 9**: Simulate Denial-of-Service (DoS) attacks to test system resilience.
 
-**Vulnerability Assessment:**
-- Simulate attacks in **Experiments 7-9** to understand Port Scanning (Nmap), SQL Injection, and DOS attacks.
-- Implement Email Security in **Experiment 10** using GPGwin.
+### Phase 4: Applied Security
+Implement security measures in real-world applications.
+- **Exp 10**: Secure communications using PGP (Pretty Good Privacy) for email encryption.
 
 ---
 

@@ -156,10 +156,8 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 | 6 | Implement ARP spoofing using Ettercap | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
 | 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan etc | April 04, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-7/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
 | 8 | Perform SQL injection on a vulnerable website | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-8/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
-| 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
+| 9 | Simulate DOS attack using hping, hping3 and other tools | April 20, 2021 | 9/10 | [View](System%20Security%20Lab/Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
 | 10 | Explore the GPGwin tool and implement email security | April 20, 2021 | 8/10 | [View](System%20Security%20Lab/Experiment-10/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
-
-
 
 ### Program Details
 

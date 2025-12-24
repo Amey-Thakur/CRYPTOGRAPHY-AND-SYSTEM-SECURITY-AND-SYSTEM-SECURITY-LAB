@@ -146,18 +146,18 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 > [!TIP]
 > **Lab Manual**: For further details or code samples, verify the [System Security Lab](System%20Security%20Lab/) directory.
 
-| # | Experiment | Marks | Report |
-|:-:|:---|:---:|:-:|
-| 1 | Design and Implementation of a product cipher using Substitution and Transposition ciphers | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-1.pdf) |
-| 2 | Implementation and analysis of RSA cryptosystem and Digital signature scheme using RSA/El Gamal | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-2.pdf) |
-| 3 | For varying message sizes, test the integrity of the message using MD-5, SHA-1, and analyze the performance of the two protocols. Use crypt APIs | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-3.pdf) |
-| 4 | Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks and domain registrars | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
-| 5 | Design a network and implement packet sniffing on telnet traffic using Wireshark | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
-| 6 | Implement ARP spoofing using Ettercap | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
-| 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan, TCP port scan, UDP port scan, Xmas scan etc | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
-| 8 | Perform SQL injection on a vulnerable website | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
-| 9 | Simulate DOS attack using Hoping, hping3 and other tools | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
-| 10 | Explore the GPGwin tool and implement email security | 8/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
+| # | Experiment | Date | Marks | Report |
+|:-:|:---|:---:|:---:|:-:|
+| 1 | Design and Implementation of a product cipher using Substitution and Transposition ciphers | January 29, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-1.pdf) |
+| 2 | Implementation and analysis of RSA cryptosystem and Digital signature scheme using RSA/El Gamal | February 26, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-2.pdf) |
+| 3 | For varying message sizes, test the integrity of the message using MD-5, SHA-1, and analyze the performance of the two protocols | March 12, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-3.pdf) |
+| 4 | Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nslookup to gather information about networks | March 19, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-4.pdf) |
+| 5 | Design a network and implement packet sniffing on telnet traffic using Wireshark | March 26, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
+| 6 | Implement ARP spoofing using Ettercap | April 02, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
+| 7 | Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan etc | April 09, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
+| 8 | Perform SQL injection on a vulnerable website | April 16, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
+| 9 | Simulate DOS attack using Hoping, hping3 and other tools | April 23, 2021 | 9/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
+| 10 | Explore the GPGwin tool and implement email security | April 30, 2021 | 8/10 | [View](System%20Security%20Lab/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
 
 ---
 
@@ -169,9 +169,9 @@ The laboratory component (CSL604) focuses on hands-on implementation of cryptogr
 
 | Program | Category | Description | Code |
 |:---|:---|:---|:-:|
-| `Product_Cipher.py` | Product Cipher | Implementation of combined Substitution and Transposition cipher | [View](System%20Security%20Lab/Programs/1/Product_Cipher.py) |
-| `Substitution_Cipher.py` | Substitution | Implementation of Substitution cipher logic | [View](System%20Security%20Lab/Programs/1/Substitution_Cipher.py) |
-| `Transposition_Cipher.py` | Transposition | Implementation of Transposition cipher logic | [View](System%20Security%20Lab/Programs/1/Transposition_Cipher.py) |
+| `Product_Cipher.py` | Product Cipher | Implementation of combined Substitution and Transposition cipher | [View](System%20Security%20Lab/Experiment-1/Product_Cipher.py) |
+| `Substitution_Cipher.py` | Substitution | Implementation of Substitution cipher logic | [View](System%20Security%20Lab/Experiment-1/Substitution_Cipher.py) |
+| `Transposition_Cipher.py` | Transposition | Implementation of Transposition cipher logic | [View](System%20Security%20Lab/Experiment-1/Transposition_Cipher.py) |
 </details>
 
 <details>

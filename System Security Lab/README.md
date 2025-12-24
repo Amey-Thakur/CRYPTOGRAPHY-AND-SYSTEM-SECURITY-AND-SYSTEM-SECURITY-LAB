@@ -34,16 +34,37 @@
      ========================================================================================= -->
 ## How to Use
 
-### Viewing Reports
-1. **Navigate** to the desired experiment section.
-2. **Click** the "View" link for PDF format or "Download" for DOCX format.
-3. **PDF files** can be viewed directly in the browser.
-4. **DOCX files** require Microsoft Word or compatible software.
+### 🛠️ Environment Setup
+Ensure you have **Python 3.x** installed. Some experiments require external tools and libraries:
+- **Python Libraries**: Install `scapy` for packet manipulation experiments.
+  ```bash
+  pip install scapy
+  ```
+- **External Tools**:
+  - **Nmap**: Required for Experiment 7.
+  - **Wireshark**: Required for packet analysis in Experiment 5.
+  - **GPGwin**: Required for PGP implementation in Experiment 10.
 
-### Using as Reference
-- Each experiment report follows the standard lab manual format.
-- Reports include problem statements, theoretical backgrounds, and detailed solutions.
-- Use these as templates for your own lab submissions.
+### 🚀 Running Experiments
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/Amey-Thakur/CRYPTOGRAPHY-AND-SYSTEM-SECURITY-AND-SYSTEM-SECURITY-LAB.git
+   ```
+2. **Navigate** to the specific experiment directory:
+   ```bash
+   cd "System Security Lab/Experiment-X"
+   ```
+3. **Execute** the Python script (ensure you have administrative privileges for network operations):
+   ```bash
+   python script_name.py
+   ```
+
+### 📄 Laboratory Reports
+Each experiment includes a detailed PDF report covering:
+- **Problem Statement**: The specific security challenge addressed.
+- **Theory**: The underlying cryptographic or networking concepts.
+- **Implementation**: Code explanation and execution screenshots.
+- Use these reports as a reference for structuring your own lab submissions.
 
 ---
 

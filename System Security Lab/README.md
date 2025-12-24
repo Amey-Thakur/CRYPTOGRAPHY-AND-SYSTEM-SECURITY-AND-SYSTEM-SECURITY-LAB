@@ -206,16 +206,17 @@ Perform SQL injection on a vulnerable website.
 <!-- =========================================================================================
                                      EXPERIMENT 9
      ========================================================================================= -->
-## Experiment 9: DOS Attack
+## Experiment 9: Denial-of-Service (DoS)
 
-Simulate DOS attack using Hoping, hping3 and other tools.
+Simulate DOS attack using Hping, hping3 and other tools.
 
-**Date:** April 23, 2021
+**Date:** April 20, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-9.docx) |
+| 1 | Program Code (Python) | DoS Simulation Script (hping3 wrapper) | [View](Experiment-9/DoS_Attack_Simulator.py) |
+| 2 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.pdf) |
+| 3 | Lab Report (DOCX) | Editable report file | [Download](Experiment-9/Amey_B-50_System_Security_Lab_Experiment-9.docx) |
 
 ---
 

@@ -142,12 +142,12 @@ Study the use of network reconnaissance tools like WHOIS, dig, traceroute, nsloo
 
 Design a network and implement packet sniffing on telnet traffic using Wireshark.
 
-**Date:** March 26, 2021
+**Date:** March 30, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-5.docx) |
+| 1 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-5/Amey_B-50_System_Security_Lab_Experiment-5.pdf) |
+| 2 | Lab Report (DOCX) | Editable report file | [Download](Experiment-5/Amey_B-50_System_Security_Lab_Experiment-5.docx) |
 
 ---
 

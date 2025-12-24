@@ -223,16 +223,17 @@ Simulate DOS attack using Hping, hping3 and other tools.
 <!-- =========================================================================================
                                      EXPERIMENT 10
      ========================================================================================= -->
-## Experiment 10: Email Security (GPGwin)
+## Experiment 10: Email Security (PGP)
 
 Explore the GPGwin tool and implement email security.
 
-**Date:** April 30, 2021
+**Date:** April 20, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-10.docx) |
+| 1 | Program Code (Python) | PGP/GPG Wrapper Script | [View](Experiment-10/PGP_Email_Security.py) |
+| 2 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-10/Amey_B-50_System_Security_Lab_Experiment-10.pdf) |
+| 3 | Lab Report (DOCX) | Editable report file | [Download](Experiment-10/Amey_B-50_System_Security_Lab_Experiment-10.docx) |
 
 ---
 

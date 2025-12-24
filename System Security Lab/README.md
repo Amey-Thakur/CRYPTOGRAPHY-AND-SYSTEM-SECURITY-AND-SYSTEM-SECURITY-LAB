@@ -75,24 +75,24 @@ Each experiment includes a detailed PDF report covering:
 
 ### Phase 1: Cryptographic Algorithms
 Focus on the mathematical foundations of security.
-- **Exp 1 & 2**: Implement Product Ciphers and RSA to understand encryption mechanics.
-- **Exp 3**: Analyze Hashing Algorithms (MD5/SHA-1) for data integrity verification.
+- **Experiment 1 & 2**: Implement Product Ciphers and RSA to understand encryption mechanics.
+- **Experiment 3**: Analyze Hashing Algorithms (MD5/SHA-1) for data integrity verification.
 
 ### Phase 2: Network Intelligence
 Master the tools used for gathering information and monitoring traffic.
-- **Exp 4**: Perform Network Reconnaissance using `whois`, `dig`, and `traceroute`.
-- **Exp 5**: Intercept and analyze unencrypted traffic with Packet Sniffing (Telnet).
-- **Exp 7**: Conduct advanced Port Scanning and OS Fingerprinting using Nmap.
+- **Experiment 4**: Perform Network Reconnaissance using `whois`, `dig`, and `traceroute`.
+- **Experiment 5**: Intercept and analyze unencrypted traffic with Packet Sniffing (Telnet).
+- **Experiment 7**: Conduct advanced Port Scanning and OS Fingerprinting using Nmap.
 
 ### Phase 3: Offensive Security
 Simulate attacks to understand defensive requirements.
-- **Exp 6**: Execute ARP Spoofing to demonstrate Man-in-the-Middle attacks.
-- **Exp 8**: Exploit web vulnerabilities using SQL Injection techniques.
-- **Exp 9**: Simulate Denial-of-Service (DoS) attacks to test system resilience.
+- **Experiment 6**: Execute ARP Spoofing to demonstrate Man-in-the-Middle attacks.
+- **Experiment 8**: Exploit web vulnerabilities using SQL Injection techniques.
+- **Experiment 9**: Simulate Denial-of-Service (DoS) attacks to test system resilience.
 
 ### Phase 4: Applied Security
 Implement security measures in real-world applications.
-- **Exp 10**: Secure communications using PGP (Pretty Good Privacy) for email encryption.
+- **Experiment 10**: Secure communications using PGP (Pretty Good Privacy) for email encryption.
 
 ---
 

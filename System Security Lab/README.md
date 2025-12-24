@@ -159,12 +159,13 @@ Design a network and implement packet sniffing on telnet traffic using Wireshark
 
 Implement ARP spoofing using Ettercap.
 
-**Date:** April 02, 2021
+**Date:** April 20, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-6.docx) |
+| 1 | Program Code (Python) | ARP Spoofing Script (scapy) | [View](Experiment-6/ARP_Spoofer.py) |
+| 2 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.pdf) |
+| 3 | Lab Report (DOCX) | Editable report file | [Download](Experiment-6/Amey_B-50_System_Security_Lab_Experiment-6.docx) |
 
 ---
 

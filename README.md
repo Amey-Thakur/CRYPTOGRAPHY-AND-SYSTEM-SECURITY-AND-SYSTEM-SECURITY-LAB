@@ -187,6 +187,7 @@ Internal assessment evaluations conducted during the course:
 |:-:|:---|:---|:---:|
 | 1 | [Question Paper](Internal%20Assessment%20Test/39CSS_IAT1.pdf) | CSS Internal Assessment Test 1 Question Paper | — |
 | 2 | [Answer Sheet](Internal%20Assessment%20Test/Amey_B-50_CSS_IAT-1.pdf) | CSS Internal Assessment Test 1 Answer Sheet | — |
+| 3 | [MCQ](Internal%20Assessment%20Test/CSS-MCQ.png) | CSS Internal Assessment Test 1 MCQ | — |
 
 ### IAT - 2
 
@@ -199,7 +200,6 @@ Internal assessment evaluations conducted during the course:
 | # | Resource | Description |
 |:-:|:---|:---|
 | 1 | [Answer Sheet Template](Internal%20Assessment%20Test/CSS.pdf) | IAT Answer Sheet Template |
-| 2 | [MCQ](Internal%20Assessment%20Test/CSS-MCQ.png) | CSS Internal Assessment Test MCQ |
 
 ---
 

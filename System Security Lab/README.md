@@ -172,16 +172,17 @@ Implement ARP spoofing using Ettercap.
 <!-- =========================================================================================
                                      EXPERIMENT 7
      ========================================================================================= -->
-## Experiment 7: Nmap Scanning
+## Experiment 7: Nmap Scanning & OS Fingerprinting
 
-Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan, TCP port scan, UDP port scan, Xmas scan etc.
+Download and install Nmap. Use it with different options to scan open ports, perform OS fingerprinting, do a ping scan etc.
 
-**Date:** April 09, 2021
+**Date:** April 04, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-7.docx) |
+| 1 | Program Code (Python) | Nmap Automation Script | [View](Experiment-7/Nmap_Scanner.py) |
+| 2 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-7/Amey_B-50_System_Security_Lab_Experiment-7.pdf) |
+| 3 | Lab Report (DOCX) | Editable report file | [Download](Experiment-7/Amey_B-50_System_Security_Lab_Experiment-7.docx) |
 
 ---
 

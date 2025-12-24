@@ -193,12 +193,13 @@ Download and install Nmap. Use it with different options to scan open ports, per
 
 Perform SQL injection on a vulnerable website.
 
-**Date:** April 16, 2021
+**Date:** April 20, 2021
 
 | # | Document | Description | Link |
 |:-:|:---|:---|:-:|
-| 1 | Lab Report (PDF) | Detailed experiment report | [View](Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
-| 2 | Lab Report (DOCX) | Editable report file | [Download](Amey_B-50_System_Security_Lab_Experiment-8.docx) |
+| 1 | Program Code (Python) | SQL Injection Script (sqlmap wrapper) | [View](Experiment-8/SQL_Injection_Tester.py) |
+| 2 | Lab Report (PDF) | Detailed experiment report | [View](Experiment-8/Amey_B-50_System_Security_Lab_Experiment-8.pdf) |
+| 3 | Lab Report (DOCX) | Editable report file | [Download](Experiment-8/Amey_B-50_System_Security_Lab_Experiment-8.docx) |
 
 ---
 

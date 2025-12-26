@@ -284,7 +284,7 @@ Explore the GPGwin tool and implement email security.
 
   <br>
 
-  **[🏠 Back to Main Repository](../)**
+  🏠 **[Back to Main Repository](../)**
 
 </div>
 

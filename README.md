@@ -5,7 +5,7 @@
 
   <img src="https://raw.githubusercontent.com/Amey-Thakur/COMPUTER-ENGINEERING/main/university-of-mumbai-logo.png" alt="University of Mumbai" width="200"/>
 
-  # Cryptography and System Security and System Security Lab
+  # Cryptography and System Security and System Security Laboratory
 
   ### CSC604 & CSL604 · Semester VI · Computer Engineering
 
@@ -29,7 +29,7 @@
      ========================================================================================= -->
 ## Overview
 
-Cryptography and System Security (CSC604) and System Security Lab (CSL604) are core subjects in the Third Year (Semester VI) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of secure communication, cryptographic algorithms, network security protocols, and techniques to protect systems from various threats.
+Cryptography and System Security (CSC604) and System Security Laboratory (CSL604) are core subjects in the Third Year (Semester VI) of the Computer Engineering curriculum at the University of Mumbai. These courses provide foundational knowledge of secure communication, cryptographic algorithms, network security protocols, and techniques to protect systems from various threats.
 
 ### Course Topics
 
@@ -52,7 +52,7 @@ As a computer engineer, understanding security principles is crucial for buildin
 
 - **Knowledge Preservation**: To maintain organized access to comprehensive study materials beyond the classroom.
 - **Continuous Learning**: To support lifelong learning by enabling easy revisitation of fundamental security concepts.
-- **Academic Documentation**: To authentically document my learning journey through CSS and SSL.
+- **Academic Documentation**: To authentically document my learning journey through Cryptography and System Security and System Security Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
 All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
@@ -378,7 +378,7 @@ Course completion documentation:
 ## Syllabus
 
 > [Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
-> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for CSS and SSL.
+> Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Cryptography and System Security and System Security Laboratory.
 
 > [!IMPORTANT]
 > Always verify the latest syllabus details with the official University of Mumbai website, as curriculum updates may occur after this repository's archival date.
@@ -425,7 +425,7 @@ This repository and all linked academic content are made available under the **C
 **Institution**: [Terna Engineering College](https://ternaengg.ac.in/), Navi Mumbai  
 **University**: [University of Mumbai](https://mu.ac.in/)
 
-This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Cryptography and System Security & System Security Lab.
+This repository represents a comprehensive collection of study materials, reference books, assignments, and personal preparation notes curated during my academic journey. All content has been carefully organized and documented to serve as a valuable resource for students pursuing Cryptography and System Security & System Security Laboratory.
 
 **Connect**: [GitHub](https://github.com/Amey-Thakur) · [LinkedIn](https://www.linkedin.com/in/amey-thakur)
 
@@ -443,13 +443,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#cryptography-and-system-security-and-system-security-lab)**
+  **[↑ Back to Top](#cryptography-and-system-security-and-system-security-laboratory)**
 
   **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#system-security-laboratory)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
 
   <br>
 
-  **[System Security Lab](System%20Security%20Lab/README.md)**
+  **[System Security Laboratory](System%20Security%20Lab/README.md)**
 
 </div>
 

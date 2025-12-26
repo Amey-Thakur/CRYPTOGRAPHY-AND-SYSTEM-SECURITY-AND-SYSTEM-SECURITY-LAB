@@ -18,7 +18,7 @@
 
   ---
 
-  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#system-security-laboratory) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [IAT](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#system-security-laboratory) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
 </div>
 
@@ -102,9 +102,9 @@ Academic assignments for comprehensive learning and practice:
 
 | # | Assignment | Description | Date | Marks |
 |:-:|:---|:---|:---:|:---:|
-| 1 | [**Assignment 1**](Assignments/Amey_B-50_CSS_Assignment-1.pdf) | Security Goals, Substitution & Transposition Ciphers, Chinese Remainder Theorem, Euclid & Fermat/Euler Algorithms, Diffie-Hellman, RSA | — | 9/10 |
-| 2 | [**Assignment 2**](Assignments/Amey_B-50_CSS_Assignment-2.pdf) | Hashing (MD5, SHA, HMAC), X.509, Kerberos, DoS/DDoS Attacks, SSL, IPSec, PGP, IDS, Buffer Overflow, SQL Injection | — | 9/10 |
-| 3 | [**Assignment 3**](Assignments/Amey_B-50_CSS_Assignment-3.pdf) | **Beyond Syllabus**: Internet Key Exchange (IKE), Biometric Techniques, Zero Knowledge Protocol | February 23, 2021 | — |
+| 1 | [Assignment 1](Assignments/Amey_B-50_CSS_Assignment-1.pdf) | Security Goals, Substitution & Transposition Ciphers, Chinese Remainder Theorem, Euclid & Fermat/Euler Algorithms, Diffie-Hellman, RSA | — | 9/10 |
+| 2 | [Assignment 2](Assignments/Amey_B-50_CSS_Assignment-2.pdf) | Hashing (MD5, SHA, HMAC), X.509, Kerberos, DoS/DDoS Attacks, SSL, IPSec, PGP, IDS, Buffer Overflow, SQL Injection | — | 9/10 |
+| 3 | [Assignment 3](Assignments/Amey_B-50_CSS_Assignment-3.pdf) | **Beyond Syllabus**: Internet Key Exchange (IKE), Biometric Techniques, Zero Knowledge Protocol | February 23, 2021 | — |
 
 **Topics Covered**: Modular Arithmetic · Euclidean Algorithm · Fermat's Little Theorem · Euler's Theorem · Chinese Remainder Theorem · Primitive Roots · Discrete Logarithms · RSA Algorithm · Diffie-Hellman Key Exchange · Hash Functions (MD5, SHA) · HMAC · Digital Signatures · X.509 Certificates · Kerberos · Network Attacks (DoS, DDoS, SQL Injection, Buffer Overflow) · Security Protocols (SSL, IPSec, PGP) · Biometrics · Zero Knowledge Protocol
 
@@ -119,12 +119,12 @@ CSS-specific quizzes conducted during the course:
 
 | # | Quiz | Topics | Marks |
 |:-:|:---|:---|:---:|
-| 1 | [**Quiz 1**](Quizzes/CSS%20Quiz-1.pdf) | Introduction to Cryptography and Classical Encryption | 10/10 |
-| 2 | [**Quiz 2**](Quizzes/CSS%20Quiz-2.pdf) | Block Ciphers and Data Encryption Standard (DES) | 10/10 |
-| 3 | [**Quiz 3**](Quizzes/CSS%20Quiz-3.pdf) | Advanced Encryption Standard (AES) and Public Key Cryptography | 10/10 |
-| 4 | [**Quiz 4**](Quizzes/CSS%20Quiz-4.pdf) | RSA Algorithm and Key Management | 10/10 |
-| 5 | [**Quiz 5**](Quizzes/CSS%20Quiz-5.pdf) | Message Authentication and Hash Functions | 10/10 |
-| 6 | [**Quiz 6**](Quizzes/CSS%20Quiz-6.pdf) | System Security and Network Security | 10/10 |
+| 1 | [Quiz 1](Quizzes/CSS%20Quiz-1.pdf) | Introduction to Cryptography and Classical Encryption | 10/10 |
+| 2 | [Quiz 2](Quizzes/CSS%20Quiz-2.pdf) | Block Ciphers and Data Encryption Standard (DES) | 10/10 |
+| 3 | [Quiz 3](Quizzes/CSS%20Quiz-3.pdf) | Advanced Encryption Standard (AES) and Public Key Cryptography | 10/10 |
+| 4 | [Quiz 4](Quizzes/CSS%20Quiz-4.pdf) | RSA Algorithm and Key Management | 10/10 |
+| 5 | [Quiz 5](Quizzes/CSS%20Quiz-5.pdf) | Message Authentication and Hash Functions | 10/10 |
+| 6 | [Quiz 6](Quizzes/CSS%20Quiz-6.pdf) | System Security and Network Security | 10/10 |
 
 ---
 
@@ -443,13 +443,13 @@ Special thanks to the mentors and peers whose encouragement, discussions, and su
 <div align="center">
 
   <!-- Footer Navigation -->
-  **[↑ Back to Top](#cryptography-and-system-security-and-system-security-laboratory)**
+  [↑ Back to Top](#cryptography-and-system-security-and-system-security-laboratory)
 
-  **[Overview](#overview)** &nbsp;·&nbsp; **[Contents](#repository-contents)** &nbsp;·&nbsp; **[Reference Books](#reference-books)** &nbsp;·&nbsp; **[Personal Preparation](#personal-preparation)** &nbsp;·&nbsp; **[Assignments](#assignments)** &nbsp;·&nbsp; **[Quizzes](#quizzes)** &nbsp;·&nbsp; **[Laboratory](#system-security-laboratory)** &nbsp;·&nbsp; **[Mock Test](#mock-test)** &nbsp;·&nbsp; **[IAT](#internal-assessment-test)** &nbsp;·&nbsp; **[Semester Exam](#semester-exam)** &nbsp;·&nbsp; **[Question Papers](#question-papers)** &nbsp;·&nbsp; **[Submission Report](#submission-completion-report)** &nbsp;·&nbsp; **[Syllabus](#syllabus)** &nbsp;·&nbsp; **[Usage Guidelines](#usage-guidelines)** &nbsp;·&nbsp; **[License](#license)** &nbsp;·&nbsp; **[About](#about-this-repository)** &nbsp;·&nbsp; **[Acknowledgments](#acknowledgments)**
+  [Overview](#overview) &nbsp;·&nbsp; [Contents](#repository-contents) &nbsp;·&nbsp; [Reference Books](#reference-books) &nbsp;·&nbsp; [Personal Preparation](#personal-preparation) &nbsp;·&nbsp; [Assignments](#assignments) &nbsp;·&nbsp; [Quizzes](#quizzes) &nbsp;·&nbsp; [Laboratory](#system-security-laboratory) &nbsp;·&nbsp; [Mock Test](#mock-test) &nbsp;·&nbsp; [Internal Assessment Test](#internal-assessment-test) &nbsp;·&nbsp; [Semester Exam](#semester-exam) &nbsp;·&nbsp; [Question Papers](#question-papers) &nbsp;·&nbsp; [Submission Report](#submission-completion-report) &nbsp;·&nbsp; [Syllabus](#syllabus) &nbsp;·&nbsp; [Usage Guidelines](#usage-guidelines) &nbsp;·&nbsp; [License](#license) &nbsp;·&nbsp; [About](#about-this-repository) &nbsp;·&nbsp; [Acknowledgments](#acknowledgments)
 
   <br>
 
-  **[System Security Laboratory](System%20Security%20Lab/README.md)**
+  🔬 **[System Security Laboratory](System%20Security%20Lab/README.md)**
 
 </div>
 

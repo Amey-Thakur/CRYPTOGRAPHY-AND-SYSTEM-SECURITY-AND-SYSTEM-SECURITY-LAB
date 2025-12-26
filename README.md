@@ -377,7 +377,7 @@ Course completion documentation:
      ========================================================================================= -->
 ## Syllabus
 
-> [Official CBCGS Syllabus](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
+> [**Official CBCGS Syllabus**](Syllabus/TE%20BE%20Comp%20Engg%20CBCGS%20Syllabus.pdf)  
 > Complete Third Year Computer Engineering syllabus document from the University of Mumbai, including detailed course outcomes, assessment criteria, and module specifications for Cryptography and System Security and System Security Laboratory.
 
 > [!IMPORTANT]

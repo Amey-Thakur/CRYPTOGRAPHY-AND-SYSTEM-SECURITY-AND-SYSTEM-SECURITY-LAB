@@ -55,7 +55,8 @@ As a computer engineer, understanding security principles is crucial for buildin
 - **Academic Documentation**: To authentically document my learning journey through Cryptography and System Security and System Security Laboratory.
 - **Community Contribution**: To share these resources with students and learners who may benefit from them.
 
-All materials in this repository were gathered, organized, and documented by me during my undergraduate studies (2018-2022) as part of my coursework and exam preparation.
+> [!NOTE]
+> All materials in this repository were created, compiled, and organized by me throughout my undergraduate program (2018-2022) as part of my coursework, laboratory assignments, and project implementations.
 
 ---
 

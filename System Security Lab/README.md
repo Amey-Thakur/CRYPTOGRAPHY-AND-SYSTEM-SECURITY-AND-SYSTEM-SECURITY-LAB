@@ -8,7 +8,7 @@
   ### CSL604 · Semester VI · Computer Engineering
 
   [![Curated by](https://img.shields.io/badge/Curated%20by-Amey%20Thakur-blue.svg)](https://github.com/Amey-Thakur)
-  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#laboratory-experiments)
+  [![Documents](https://img.shields.io/badge/Documents-10-yellowgreen.svg)](#learning-path)
   [![Language](https://img.shields.io/badge/Language-Python%20%7C%20Java-blueviolet.svg)](./)
 
   **A comprehensive collection of laboratory experiments for System Security, covering cryptographic algorithms, network security protocols, packet sniffing, and vulnerability assessments.**
